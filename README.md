@@ -1,3 +1,4 @@
+``` c++
 #include <iostream>
 #include <string>
 #include <sstream>
@@ -104,3 +105,5 @@ int main() {
     std::cout << "SHA-1 hash \"" << input << "\" : " << std::hex << std::setw(8) << std::setfill('0') << hash << std::endl;
     return 0;
 }
+```
+```
